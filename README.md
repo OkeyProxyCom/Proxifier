@@ -85,3 +85,4 @@ If the authorization details are valid and precise, the activation will be succe
 
 ![image](https://github.com/OkeyProxyCom/Proxifier/assets/150340973/288e9309-6b6b-444b-9110-b3b2c120c2a7)
 
+Learn more: https://www.okeyproxy.com/proxy/how-to-use-proxifier-with-okey-proxy-in-2024/
